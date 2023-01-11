@@ -3,5 +3,5 @@
 
 I create 2 interactive games using Javascript and HTML
 
-Here is a link to play: https://asapkyxy.github.io/Games/
+Here is a link to play: https://kytuang.github.io/Games/
 
